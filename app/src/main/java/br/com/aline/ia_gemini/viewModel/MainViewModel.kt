@@ -12,9 +12,7 @@ import kotlinx.coroutines.launch
 
 class MainViewModel : ViewModel() {
     private val generativeModel = GenerativeModel(
-        // For text-only input, use the gemini-pro model
         modelName = "gemini-pro",
-        // Access your API key as a Build Configuration variable (see "Set up your API key" above)
         apiKey = BuildConfig.apiKey
     )
 
