@@ -5,14 +5,11 @@ Aplicativo Android que utiliza uma API do Gemini, a IA do Google, com um prompt 
 
 <img src="app/src/screens/home.png" width="250">&emsp;<img src="app/src/screens/loading.png" width="250">&emsp;<img src="app/src/screens/lista2.png" width="250">
 
-## :movie_camera: Video
-
-<img src="app/src/screens/video1-IA.gif" width="300">
 
 ## Tecnologias
 * Kotlin
 * Jetpack Compose
-* View Moddel
+* View Model
 * Firebase
 * API Gemini
 * Inteligência Artificial
