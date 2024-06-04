@@ -54,7 +54,6 @@ class MainActivity : ComponentActivity() {
             ) {
 
 
-
                 Text(text = textResult ?: "Gere sua lista de compras \r\n para uma dieta low carb",
                     style = TextStyle(
                         fontSize = 15.sp,
@@ -62,8 +61,6 @@ class MainActivity : ComponentActivity() {
                         fontWeight = FontWeight.Bold,
                         fontFamily = FontFamily.Monospace,
                         color = Color.White,
-
-
 
 
                     )
