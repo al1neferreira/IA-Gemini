@@ -3,7 +3,8 @@ Aplicativo Android que utiliza uma API do Gemini, a IA do Google, com um prompt 
 
 ## :camera_flash: Screenshots
 
-<img src="app/src/screens/home.png" width="250">&emsp;<img src="app/src/screens/loading.png" width="250">&emsp;<img src="app/src/screens/lista2.png" width="250">
+<img src="app/src/screens/home.png" width="350">&emsp;<img src="app/src/screens/loading.png" width="350">&emsp;<img src="app/src/screens/lista2.png" width="350">&emsp;<img src="app/src/screens/video1-IA.gif" width="330">
+
 
 
 ## Tecnologias
